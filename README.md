@@ -83,12 +83,12 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=druiz912&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="druiz Github Stats" width="90%">
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=druiz912&show_icons=true&hide_border=true&theme=radical" width="47%" alt="druiz top Languages">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=druiz912&theme=dracula" width="100%" alt="details commits">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=drhiidden&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="druiz Github Stats" width="90%">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=drhiidden&show_icons=true&hide_border=true&theme=radical" width="47%" alt="druiz top Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drhiidden&theme=dracula" width="100%" alt="details commits">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=druiz912&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=druiz912&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drhiidden&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drhiidden&theme=dark)
 <div align="center">
 <h3 align="center">Thanks for visiting my repository, may the token be with you&nbsp;❤️&nbsp;</h3>
 </div>
