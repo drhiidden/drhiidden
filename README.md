@@ -18,9 +18,13 @@
 
 ### I am a Fullstack developer
 - 🔭 Currently **working** on **updating** and improving **my web** resume and **portfolio**
-- 😄 Currently working with [*Nter*](https://nter.es/) associated with [*NWorld*](https://n.world/)
 - 🌱 Currently learning more about *roadmap Back-End* with **Java**, **Python**, **PHP**
-- 🥅 Currently learning too more about *roadmap Front-end* with **Angular**, **React**, **Ionic** --> with 4GeeksAcademy
+- 🥅 Currently learning too more about *roadmap Front-end* with **Angular**, **React**, **Ionic**
+- 🤖 Expanding knowledge in *AI roadmap* with **Machine Learning**, **Deep Learning**, **NLP (Natural Language Processing)**, **Computer Vision**
+  - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-%2300f.svg?style=for-the-badge)
+  - ![Deep Learning](https://img.shields.io/badge/Deep_Learning-%23E34F26.svg?style=for-the-badge)
+  - ![NLP](https://img.shields.io/badge/NLP-%23323330.svg?style=for-the-badge)
+  - ![Computer Vision](https://img.shields.io/badge/Computer_Vision-%2307405e.svg?style=for-the-badge)
 - 🧗 *I try to:* be better than the day before and so every day. I love programming and the IT world, it will never be enough
 
 <br>
