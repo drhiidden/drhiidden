@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Welcome to my GitHub!</h1>
-  <h3>Hello, I'm <strong>Daniel González</strong> 👋</h3>
+  <h3>Hello, I'm <strong>Daniel</strong> 👋</h3>
   <p>
     Software engineer 🧠 | Philosopher 🧭 | Ethical AI builder 🤖 | Game & toolmaker 🎮  
   </p>
@@ -150,6 +150,18 @@ From a young age, I've been driven by the belief that technology can be both pow
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-Game_Engine-black?style=for-the-badge&logo=unity)
+![Godot](https://img.shields.io/badge/Godot-Engine-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-Studio-black?style=for-the-badge&logo=yoast&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-Python_Games-yellow?style=for-the-badge&logo=python&logoColor=black)
+
+### 🎵 Interactive Music and Audio Production
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-Digital_Audio_Workstation-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-DAW-orange?style=for-the-badge&logo=flstudio&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-Audio_Editing-blue?style=for-the-badge&logo=audacity&logoColor=white)
+![Reaper](https://img.shields.io/badge/Reaper-DAW-darkred?style=for-the-badge)
+![VST Plugins](https://img.shields.io/badge/VST_Plugins-Instrumentation-purple?style=for-the-badge)
+![MIDI Programming](https://img.shields.io/badge/MIDI-Programming-informational?style=for-the-badge)
 
 ---
 
