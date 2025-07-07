@@ -31,7 +31,6 @@ From a young age, I've been driven by the belief that technology can be both pow
 
 📘 Highlights:
 - [MEIA] – Manifiesto Ético de la IA  
-- [LiiaDA]– Infrastructure for modular, ethical AI agents  
 - [KGraph-AI] – Semantic code understanding  
 - [Git-Stellar-Prism] – Visualizing GitHub as living art
 
